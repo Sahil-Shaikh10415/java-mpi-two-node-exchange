@@ -1,0 +1,5 @@
+MPJ Express (0.44) is started in the multicore configuration
+Rank 0: sending [5, 10, 15, 20] to rank 1
+Rank 1: processed [5, 10, 15, 20] into [10, 20, 30, 40]
+Rank 0: received [10, 20, 30, 40] from rank 1
+PASS: two-rank MPI exchange completed successfully.
